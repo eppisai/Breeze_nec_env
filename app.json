@@ -1,0 +1,12 @@
+{
+    "name": "Breeze-An online web portal",
+    "description": "something..",
+    "respository": "https://github.com/the-eppisai/Breeze_nec_env/tree/master/Templates",
+    "logo": "icon.svg",
+    "keywords": [
+        "node",
+        "express",
+        "static"
+    ],
+    "image": "heroku/nodejs"
+}
