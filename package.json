@@ -4,7 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
@@ -15,9 +16,12 @@
     "request": "^2.88.2"
   },
   "devDependencies": {},
+  "engines": {
+    "node": "13.3.0"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thanksalot123/environment-hackathon.git"
+    "url": "https://github.com/the-eppisai/Breeze_nec_env"
   },
   "bugs": {
     "url": "https://github.com/thanksalot123/environment-hackathon/issues"
